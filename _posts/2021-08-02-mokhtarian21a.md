@@ -28,14 +28,14 @@ lastpage: 54
 page: 26-54
 order: 26
 cycles: false
-bibtex_author: Mokhtarian, Ehsan and Akbari, Sina and Ghassami, AmirEmad and Kiyavash,
+bibtex_author: Mokhtarian, Ehsan and Akbari, Sina and Ghassami, Amir Emad and Kiyavash,
   Negar
 author:
 - given: Ehsan
   family: Mokhtarian
 - given: Sina
   family: Akbari
-- given: AmirEmad
+- given: Amir Emad
   family: Ghassami
 - given: Negar
   family: Kiyavash
